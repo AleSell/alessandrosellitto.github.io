@@ -1,0 +1,1 @@
+--- title: "Research" --- My research focuses on the role of data, algorithms, and AI technologies in shaping competition and welfare in digital markets.
